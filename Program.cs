@@ -13,6 +13,7 @@ namespace teste
 			Console.WriteLine ("Hello World!");
             Console.WriteLine("How are you know?");
             Console.WriteLine("Have good morning!");
+            Console.WriteLine("Bye!");
             Console.ReadLine ();
 		}
 	}

@@ -11,8 +11,8 @@ namespace teste
 		public static void Main (string[] args)
 		{
 			Console.WriteLine ("Hello World!");
-            Console.WriteLine("Good Morning!");
             Console.WriteLine("How are you know?");
+            Console.WriteLine("Have good morning!");
             Console.ReadLine ();
 		}
 	}

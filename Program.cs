@@ -14,6 +14,7 @@ namespace teste
             Console.WriteLine("How are you know?");
             Console.WriteLine("Have good morning!");
             Console.WriteLine("Bye!");
+            Console.WriteLine("----------");
             Console.ReadLine ();
 		}
 	}
